@@ -28,6 +28,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 # Tutorials and slides
 
+* [NeurIPS2018: Automatic Machine Learning](https://www.facebook.com/nipsfoundation/videos/199543964204829/).
+
 # Researchers and Labs
 
 # Mixed resources
