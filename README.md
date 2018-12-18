@@ -33,6 +33,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 # Researchers and Labs
 
 * [Barret Zoph](http://barretzoph.github.io/), Google Brain.
+* [Chenxi Liu](http://www.cs.jhu.edu/~cxliu/). Johns Hopkins University.
 
 # Mixed resources
 
