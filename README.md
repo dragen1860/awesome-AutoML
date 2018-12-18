@@ -17,6 +17,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 * [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559). Chenxi Liu, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy.
 [Keras![](github.jpg)](https://github.com/titu1994/progressive-neural-architecture-search)
+[TF![](github.jpg)](https://github.com/chenxi116/PNASNet.TF)
+
 
 * [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268). Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean.
 [TF![](github.jpg)](https://github.com/melodyguan/enas) [PyTorch![](github.jpg)](https://github.com/carpedm20/ENAS-pytorch)
