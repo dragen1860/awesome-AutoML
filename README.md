@@ -8,6 +8,9 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 # Papers and Code
 
+* [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167). Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar.
+[Caffe![](github.jpg)](https://github.com/bowenbaker/metaqnn)
+
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012). Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le.
 [TF![](github.jpg)](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
 [PyTorch![](github.jpg)](https://github.com/wandering007/nasnet-pytorch)
