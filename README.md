@@ -32,6 +32,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 # Researchers and Labs
 
+* [Barret Zoph](http://barretzoph.github.io/), Google Brain.
+
 # Mixed resources
 
 * [automl.org](https://www.automl.org/)
