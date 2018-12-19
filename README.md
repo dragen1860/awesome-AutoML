@@ -38,6 +38,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 * [Barret Zoph](http://barretzoph.github.io/), Google Brain.
 * [Chenxi Liu](http://www.cs.jhu.edu/~cxliu/). Johns Hopkins University.
 * [Bowen Baker](https://bowenbaker.github.io/). OpenAI.
+* [Hanxiao Liu](http://www.cs.cmu.edu/~hanxiaol/). CMU.
 
 # Mixed resources
 
