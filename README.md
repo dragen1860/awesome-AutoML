@@ -31,11 +31,13 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 # Tutorials and slides
 
 * [NeurIPS2018: Automatic Machine Learning](https://www.facebook.com/nipsfoundation/videos/199543964204829/).
+* [PNAS @ ECCV](https://cs.jhu.edu/~cxliu/slides/pnas-talk-eccv.pdf).
 
 # Researchers and Labs
 
 * [Barret Zoph](http://barretzoph.github.io/), Google Brain.
 * [Chenxi Liu](http://www.cs.jhu.edu/~cxliu/). Johns Hopkins University.
+* [Bowen Baker](https://bowenbaker.github.io/). OpenAI.
 
 # Mixed resources
 
