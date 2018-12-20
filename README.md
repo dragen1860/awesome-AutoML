@@ -8,6 +8,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 # Papers and Code
 
+* [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443). Bichen Wu, Xiaoliang Dai, Peizhao Zhang, Yanghan Wang, Fei Sun, Yiming Wu, Yuandong Tian, Peter Vajda, Yangqing Jia, Kurt Keutzer.
+
 * [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167). Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar.
 [Caffe![](github.jpg)](https://github.com/bowenbaker/metaqnn)
 
