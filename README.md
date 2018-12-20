@@ -26,12 +26,17 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 * [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055). Hanxiao Liu, Karen Simonyan, Yiming Yang.
 [Pytorch![](github.jpg)](https://github.com/quark0/darts)
 
+* [Practical Block-wise Neural Network Architecture Generation](https://arxiv.org/abs/1708.05552). Zhao Zhong, Junjie Yan, Wei Wu, Jing Shao, Cheng-Lin Liu.
+
+* [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tan, Quoc Le, Alex Kurakin.
+
 
 
 # Tutorials and slides
 
 * [NeurIPS2018: Automatic Machine Learning](https://www.facebook.com/nipsfoundation/videos/199543964204829/).
 * [PNAS @ ECCV](https://cs.jhu.edu/~cxliu/slides/pnas-talk-eccv.pdf).
+* [What’s the deal with Neural Architecture Search?](https://determined.ai/blog/neural-architecture-search)
 
 # Researchers and Labs
 
