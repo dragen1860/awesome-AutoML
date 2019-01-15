@@ -34,7 +34,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 * [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041). Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tan, Quoc Le, Alex Kurakin.
 
-
+* [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578). Barret Zoph, Quoc V. Le.
 
 # Tutorials and slides
 
