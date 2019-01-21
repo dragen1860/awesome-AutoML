@@ -12,8 +12,6 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 * [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873). Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, Jun Wang.
 
-* [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873). Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, Jun Wang.
-
 * [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167). Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar.
 [Caffe![](github.jpg)](https://github.com/bowenbaker/metaqnn)
 
