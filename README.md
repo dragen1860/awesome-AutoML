@@ -12,6 +12,10 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 [PyTorch![](github.jpg)](https://github.com/MIT-HAN-LAB/ProxylessNAS)
 
+* [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/abs/1708.05344).Andrew Brock, Theodore Lim, J.M. Ritchie, Nick Weston.
+
+* [Understanding and Simplifying One-Shot Architecture Search](http://proceedings.mlr.press/v80/bender18a.html). Gabriel Bender, Pieter-Jan Kindermans, Barret Zoph, Vijay Vasudevan, Quoc Le
+
 * [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926). Sirui Xie, Hehui Zheng, Chunxiao Liu, Liang Lin. ICLR2019.
 
 * [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873). Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, Jun Wang.
