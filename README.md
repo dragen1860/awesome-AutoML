@@ -8,6 +8,9 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 # Papers and Code
 
+* [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://hanlab.mit.edu/projects/proxylessNAS/). Han Cai, Ligeng Zhu, Song Han.
+[PyTorch![](github.jpg)](https://github.com/MIT-HAN-LAB/ProxylessNAS)
+
 * [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926). Sirui Xie, Hehui Zheng, Chunxiao Liu, Liang Lin. ICLR2019.
 
 * [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873). Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, Jun Wang.
@@ -48,6 +51,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 * [Chenxi Liu](http://www.cs.jhu.edu/~cxliu/). Johns Hopkins University.
 * [Bowen Baker](https://bowenbaker.github.io/). OpenAI.
 * [Hanxiao Liu](http://www.cs.cmu.edu/~hanxiaol/). CMU.
+* [Song Han](https://songhan.mit.edu/). MIT.
 
 # Mixed resources
 
