@@ -8,6 +8,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 # Papers and Code
 
+* [Random Search and Reproducibility for Neural Architecture Search](https://arxiv.org/abs/1902.07638) Liam Li, Ameet Talwalkar
+
 * [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://hanlab.mit.edu/projects/proxylessNAS/). Han Cai, Ligeng Zhu, Song Han.
 
 [PyTorch![](github.jpg)](https://github.com/MIT-HAN-LAB/ProxylessNAS)
