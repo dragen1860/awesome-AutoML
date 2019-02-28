@@ -71,3 +71,4 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 # Mixed resources
 
 * [automl.org](https://www.automl.org/)
+* [Yet Another Good List](https://www.automl.org/automl/literature-on-neural-architecture-search/)
