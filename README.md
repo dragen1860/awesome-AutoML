@@ -8,6 +8,12 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 # Papers and Code
 
+* [Fast Task-Aware Architecture Inference](https://arxiv.org/abs/1902.05781). Efi Kokiopoulou, Anja Hauth, Luciano Sbaiz, Andrea Gesmundo, Gabor Bartok, Jesse Berent.
+
+* [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635). Chris Ying, Aaron Klein, Esteban Real, Eric Christiansen, Kevin Murphy, Frank Hutter.
+
+* [Evaluating the Search Phase of Neural Architecture Search](https://arxiv.org/abs/1902.08142).Christian Sciuto, Kaicheng Yu, Martin Jaggi, Claudiu Musat, Mathieu Salzmann.
+
 * [Random Search and Reproducibility for Neural Architecture Search](https://arxiv.org/abs/1902.07638) Liam Li, Ameet Talwalkar
 [![](github.jpg)](https://github.com/liamcli/randomNAS_release)
 
