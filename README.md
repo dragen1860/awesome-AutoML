@@ -8,6 +8,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 # Papers and Code
 
+* [Probabilistic Neural Architecture Search](https://arxiv.org/abs/1902.05116). Francesco Paolo Casale, Jonathan Gordon, Nicolo Fusi.
+
 * [Fast Task-Aware Architecture Inference](https://arxiv.org/abs/1902.05781). Efi Kokiopoulou, Anja Hauth, Luciano Sbaiz, Andrea Gesmundo, Gabor Bartok, Jesse Berent.
 
 * [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635). Chris Ying, Aaron Klein, Esteban Real, Eric Christiansen, Kevin Murphy, Frank Hutter.
