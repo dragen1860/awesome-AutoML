@@ -75,3 +75,9 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 * [automl.org](https://www.automl.org/)
 * [Yet Another Good List](https://www.automl.org/automl/literature-on-neural-architecture-search/)
+
+# AutoML交流微信群
+微信群QR:
+![qr](res/3.25.jpg)
+
+如果失效，请加微信: dragen1860 申请加群。
