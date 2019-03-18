@@ -78,6 +78,6 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 
 # AutoML交流微信群
 微信群QR:
-![qr](res/3.25.jpg)
+<img src="res/3.25.jpg" alt="drawing" width="400"/>
 
 如果失效，请加微信: dragen1860 申请加群。
