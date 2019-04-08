@@ -7,6 +7,9 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-AutoML
 ![](heart.gif)
 
 # Papers and Code
+
+* [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569). Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He.
+
 * [Neural Architecture Optimization](https://arxiv.org/abs/1808.07233). Renqian Luo, Fei Tian, Tao Qin, Enhong Chen, Tie-Yan Liu.[![](github.jpg)](https://github.com/renqianluo/NAO)
 
 * [Probabilistic Neural Architecture Search](https://arxiv.org/abs/1902.05116). Francesco Paolo Casale, Jonathan Gordon, Nicolo Fusi.
